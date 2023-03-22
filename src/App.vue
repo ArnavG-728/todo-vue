@@ -13,10 +13,17 @@ const todos_asc=computed(() => todos.value.sort((a,b) => {
 }))
 
 
+
+
+
 /*----
+<<<<<<< HEAD
 creating what addTodo can do, adds the todo to the todo array*/
 
 
+=======
+creating what addTodo can do, adds the todo to the todo array gggggg*/
+>>>>>>> 99821f66524313cd62387836a6d4888f3de30faa
 const addTodo = () => {
   //sheshhh
   if(input_content.value.trim() === '' || input_content.value === null){
