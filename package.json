@@ -1,7 +1,6 @@
 {
   "name": "todo-vue",
   "private": false,
-  //originally false
   "version": "0.0.0",
   "type": "module",
   "scripts": {
